@@ -3,15 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/kyareema" target="blank"><img src="https://img.shields.io/twitter/follow/kyareema?logo=twitter&style=for-the-badge" alt="kyareema" /></a> </p>
 
-- 🔭 I’m currently working on **A mini paystack logic engine**
+- I’m currently working on **A mini paystack logic engine**
 
-- I’m currently learning **How to integrate AI in my Node Js projects**
-
-- I regularly write articles on [X (formerly Twitter)](X (formerly Twitter))
-
-- Ask me about **JavaScript, TypeScript,Node Js, ReAct,**
-
-- 📫 How to reach me **kyareema@gmail.com**
+**kyareema@gmail.com**
 
 - Know about my experiences [https://drive.google.com/file/d/1emeF8CM-F4pLY6p-PkLGrmyDUOc--az3/view?usp=sharing](https://drive.google.com/file/d/1emeF8CM-F4pLY6p-PkLGrmyDUOc--az3/view?usp=sharing)
 
